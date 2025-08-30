@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stephdataexpert
+- 👋 Hi, I’m Stephanie Muturi
 - 👀 I’m interested in Data Science | Analytics| Machine Learning 
 - 🌱 I’m currently learning ... Data Science 
 - 💞️ I’m looking to collaborate on ... solving data-driven challenges, optimizing processes, and support data-driven decision-making
